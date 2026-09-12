@@ -1,0 +1,7 @@
+opencv-python>=4.8
+numpy>=1.24
+PyAutoGUI>=0.9.54
+requests>=2.31.0
+Pillow>=10.0
+PyGetWindow>=0.0.9
+pywin32>=306; sys_platform == "win32"
