@@ -83,9 +83,7 @@ ALXICORN_Web_Manipulator/
 ├── CODE_EXPLAINER.md       # line-by-line walkthrough of main.py
 ├── references/
 │   ├── ref-1.png           # Width > Standard / Wide radios
-│   ├── ref-2.png           # Check Property Prices + postcode field
-│   ├── mediawiki.png       # extra MediaWiki screenshot
-│   └── postcode.png        # extra Property Checker screenshot
+│   └── ref-2.png           # Check Property Prices + postcode field
 └── debug_output/           # created at runtime (gitignored)
 ```
 

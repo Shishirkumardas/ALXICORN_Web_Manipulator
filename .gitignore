@@ -15,3 +15,8 @@ env/
 .DS_Store
 Thumbs.db
 *.log
+*.tmp
+
+# Local copies / extras that must never be submitted
+_pc_*.ps1
+*.pyc
